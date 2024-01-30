@@ -1,0 +1,71 @@
+.EightBall-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-59%, -50%);
+  width: 200px;
+  height: 200px;
+  border-radius: 50%;
+  background-color: black;
+  color: white;
+  text-align: center;
+}
+
+.EightBall-container-green {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-59%, -50%);
+  width: 200px;
+  height: 200px;
+  border-radius: 50%;
+  background-color: green;
+  color: white;
+  text-align: center;
+}
+
+.EightBall-container-goldenrod {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-59%, -50%);
+  width: 200px;
+  height: 200px;
+  border-radius: 50%;
+  background-color: goldenrod;
+  color: white;
+  text-align: center;
+}
+
+.EightBall-container-red {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-59%, -50%);
+  width: 200px;
+  height: 200px;
+  border-radius: 50%;
+  background-color: red;
+  color: white;
+  text-align: center;
+}
+
+.EightBall-reset {
+  color: black;
+}
